@@ -1,2 +1,2 @@
 # bootstrap-playground
-Experiment bootstrap and knockout.js libraries
+Experiment [bootstrap](https://getbootstrap.com/) and [knockout.js](https://knockoutjs.com/) libraries
